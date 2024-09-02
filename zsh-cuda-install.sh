@@ -14,5 +14,5 @@ EOF
 ## conda 下载
 conda install pytorch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 pytorch-cuda=12.1 -c pytorch -c nvidia -y
 
-## pip 下载
-# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+# pip 下载
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
